@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajinkya.417
+- 👋 Hi, I’m @ajinkyapython
 - 👀 I’m interested in startups
 - 🌱 I’m currently learning Machine Learning
 - 📫 You can reach me on ajinkyakahane051@gmail.com
